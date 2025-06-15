@@ -9,8 +9,6 @@ const edu_nsw_act_hand = Edu_NSW_ACT_Foundation({
   variable: "--font-edu-nsw-act-hand",
 });
 
-const inter = Inter({ subsets: ["latin"] });
-
 export const metadata: Metadata = {
   title: "Raposo Dev",
   description: "Personal portfolio of Raposo Dev",
@@ -25,7 +23,7 @@ export default async function RootLayout({
 
   return (
     <html lang={`${locale}`}>
-      <body className={`${edu_nsw_act_hand.variable} antialiased font-sans ${inter.className}`}>
+      <body className={`${edu_nsw_act_hand.variable} antialiased font-sans`}>
         <NextIntlClientProvider>{children}</NextIntlClientProvider>
       </body>
     </html>
