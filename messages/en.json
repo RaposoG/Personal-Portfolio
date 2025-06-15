@@ -1,0 +1,92 @@
+{
+  "Hero": {
+    "title": "FullStack Developer",
+    "subtitle": "Developing complete solutions from frontend and backend."
+  },
+  "Header": {
+    "name": "Gabriel Raposo",
+    "nav": {
+      "home": "Home",
+      "projects": "Projects",
+      "articles": "Articles",
+      "contact": "Contact"
+    }
+  },
+  "Projects": {
+    "title": "Projects",
+    "items": {
+      "portfolio": "HTML Only Portfolio",
+      "calculator": "Calculator",
+      "quiz": "Quiz App",
+      "countdown": "Countdown Timer",
+      "product": "Product Upcoming Page"
+    }
+  },
+  "WorkExperience": {
+    "title": "Work Experience",
+    "roadmap": {
+      "title": "roadmap.sh",
+      "description": "Solved all the frontend projects",
+      "link": "Visit my Profile"
+    },
+    "opensource": {
+      "title": "OpenSource Work",
+      "description": "Contributed to 50 opensource projects. Made my own projects with 200 GitHub Stars.",
+      "link": "Visit my GitHub Profile"
+    }
+  },
+  "Education": {
+    "title": "Education",
+    "description": "Graduated with 3.76 out of 4 CGPA. Won Acme Hackathon. Organized 30 sessions.",
+    "coursesTitle": "Courses I took:",
+    "courses": [
+      {
+        "id": "oop",
+        "name": "Object Oriented Programming"
+      },
+      {
+        "id": "dsa",
+        "name": "Data Structures and Algorithms"
+      },
+      {
+        "id": "web",
+        "name": "Web Engineering"
+      },
+      {
+        "id": "ai",
+        "name": "Artificial Intelligence"
+      },
+      {
+        "id": "hci",
+        "name": "Human Computer Interaction"
+      },
+      {
+        "id": "cg",
+        "name": "Computer Graphics"
+      },
+      {
+        "id": "dbms",
+        "name": "Database Management Systems"
+      },
+      {
+        "id": "dds",
+        "name": "Distributed Database Systems"
+      },
+      {
+        "id": "math",
+        "name": "Discreet Mathematics"
+      }
+    ]
+  },
+  "Reviews": {
+    "title": "Reviews from my Teachers",
+    "review": "John doe was a brilliant student; always stood out with his assignments.",
+    "teacher": {
+      "name": "Jane Doe",
+      "title": "Assistant Professor"
+    }
+  },
+  "Footer": {
+    "copyright": "all rights reserved 2025"
+  }
+}

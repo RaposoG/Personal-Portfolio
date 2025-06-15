@@ -1,0 +1,92 @@
+{
+  "Hero": {
+    "title": "Desenvolvedor FullStack",
+    "subtitle": "Desenvolvendo soluções completas do frontend ao backend."
+  },
+  "Header": {
+    "name": "Gabriel Raposo",
+    "nav": {
+      "home": "Início",
+      "projects": "Projetos",
+      "articles": "Artigos",
+      "contact": "Contato"
+    }
+  },
+  "Projects": {
+    "title": "Projetos",
+    "items": {
+      "portfolio": "Portfólio em HTML",
+      "calculator": "Calculadora",
+      "quiz": "Aplicativo de Quiz",
+      "countdown": "Contador Regressivo",
+      "product": "Página de Produto"
+    }
+  },
+  "WorkExperience": {
+    "title": "Experiência Profissional",
+    "roadmap": {
+      "title": "roadmap.sh",
+      "description": "Resolvi todos os projetos frontend",
+      "link": "Visite meu Perfil"
+    },
+    "opensource": {
+      "title": "Trabalho Open Source",
+      "description": "Contribuí para 50 projetos open source. Criei meus próprios projetos com 200 estrelas no GitHub.",
+      "link": "Visite meu Perfil no GitHub"
+    }
+  },
+  "Education": {
+    "title": "Educação",
+    "description": "Formado com 3.76 de 4 CGPA. Vencedor do Acme Hackathon. Organizei 30 sessões.",
+    "coursesTitle": "Cursos que fiz:",
+    "courses": [
+      {
+        "id": "oop",
+        "name": "Programação Orientada a Objetos"
+      },
+      {
+        "id": "dsa",
+        "name": "Estruturas de Dados e Algoritmos"
+      },
+      {
+        "id": "web",
+        "name": "Engenharia Web"
+      },
+      {
+        "id": "ai",
+        "name": "Inteligência Artificial"
+      },
+      {
+        "id": "hci",
+        "name": "Interação Humano-Computador"
+      },
+      {
+        "id": "cg",
+        "name": "Computação Gráfica"
+      },
+      {
+        "id": "dbms",
+        "name": "Sistemas de Gerenciamento de Banco de Dados"
+      },
+      {
+        "id": "dds",
+        "name": "Sistemas de Banco de Dados Distribuídos"
+      },
+      {
+        "id": "math",
+        "name": "Matemática Discreta"
+      }
+    ]
+  },
+  "Reviews": {
+    "title": "Avaliações dos meus Professores",
+    "review": "John doe foi um aluno brilhante; sempre se destacou com seus trabalhos.",
+    "teacher": {
+      "name": "Jane Doe",
+      "title": "Professora Assistente"
+    }
+  },
+  "Footer": {
+    "copyright": "todos os direitos reservados 2025"
+  }
+}
